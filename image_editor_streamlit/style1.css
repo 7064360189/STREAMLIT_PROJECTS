@@ -1,0 +1,63 @@
+/* styles.css */
+body {
+    background-image: url('https://img.freepik.com/free-photo/pine-trees-rock-formation-near-mountains-gray-clouds_395237-198.jpg?w=826&t=st=1719324985~exp=1719325585~hmac=e4b5bdb410282fddba22263e79dd0d38f06eb8b34255167239f56158970e39ea');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #FFFFFF;
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+}
+
+h2 {
+    color: #FFFFFF;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+h6 {
+    color: #FFFFFF;
+    font-size: 18px;
+    margin: 5px 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.stButton>button {
+    background-color: #4A90E2;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.stDownloadButton>button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+}
